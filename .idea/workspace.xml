@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5790196-b37c-4491-8349-f5bb02e34ed4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc-app/scripts/app.js" afterPath="$PROJECT_DIR$/calc-app/scripts/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc-app/index.html" afterPath="$PROJECT_DIR$/calc-app/index.html" />
     </list>
     <ignored path="MyCalculator.iws" />
@@ -30,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/calc-app/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.8306189" vertical-offset="0" max-vertical-offset="901">
-              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -401,7 +400,7 @@
     <entry file="file://$PROJECT_DIR$/calc-app/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8306189" vertical-offset="0" max-vertical-offset="901">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#input#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
