@@ -10,7 +10,7 @@ FDX.Pages = FDX.Pages || {};
 FDX.Pages.Kernel = function (event) {
 	var that = this,
 		eventType = event.type,
-		pageName = $(this).attr("data-rockncoder-jspage");
+		pageName = $(this).attr("data-fdx-jspage");
 
 	// if you want to see jQuery Mobile's page event lifecycle, uncomment the line below
 	//console.log("Kernel: "+pageName+", "+eventType);

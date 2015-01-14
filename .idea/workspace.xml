@@ -2,235 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5790196-b37c-4491-8349-f5bb02e34ed4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/content/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/content/images/ajax-loader.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/content/images/icons-18-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/content/images/icons-18-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/content/images/icons-36-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/content/images/icons-36-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/scripts/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/scripts/hideAddressBar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/scripts/jquery-1.7.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/content/jquery.mobile-1.1.0.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/calc-app/scripts/jquery.mobile-1.1.0.min.js" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\.idea\MyCalculator.iml" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\action-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\action-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\alert-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\alert-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-d-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-d-l-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-d-l-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-d-r-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-d-r-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-d-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-l-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-l-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-r-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-r-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-u-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-u-l-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-u-l-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-u-r-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-u-r-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\arrow-u-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\audio-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\audio-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\back-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\back-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\bars-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\bars-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\bullets-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\bullets-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\calendar-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\calendar-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\camera-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\camera-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\carat-d-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\carat-d-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\carat-l-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\carat-l-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\carat-r-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\carat-r-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\carat-u-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\carat-u-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\check-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\check-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\clock-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\clock-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\cloud-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\cloud-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\comment-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\comment-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\delete-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\delete-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\edit-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\edit-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\eye-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\eye-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\forbidden-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\forbidden-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\forward-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\forward-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\gear-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\gear-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\grid-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\grid-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\heart-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\heart-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\home-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\home-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\info-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\info-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\location-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\location-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\lock-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\lock-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\mail-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\mail-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\minus-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\minus-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\navigation-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\navigation-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\phone-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\phone-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\plus-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\plus-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\power-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\power-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\recycle-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\recycle-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\refresh-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\refresh-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\search-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\search-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\shop-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\shop-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\star-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\star-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\tag-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\tag-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\user-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\user-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\video-black.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-png\video-white.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\action-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\action-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\alert-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\alert-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-d-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-d-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-d-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-d-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-d-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-d-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-u-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-u-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-u-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-u-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-u-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\arrow-u-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\audio-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\audio-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\back-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\back-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\bars-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\bars-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\bullets-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\bullets-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\calendar-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\calendar-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\camera-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\camera-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\carat-d-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\carat-d-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\carat-l-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\carat-l-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\carat-r-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\carat-r-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\carat-u-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\carat-u-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\check-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\check-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\clock-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\clock-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\cloud-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\cloud-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\comment-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\comment-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\delete-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\delete-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\edit-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\edit-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\eye-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\eye-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\forbidden-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\forbidden-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\forward-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\forward-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\gear-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\gear-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\grid-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\grid-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\heart-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\heart-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\home-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\home-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\info-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\info-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\location-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\location-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\lock-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\lock-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\mail-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\mail-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\minus-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\minus-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\navigation-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\navigation-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\phone-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\phone-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\plus-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\plus-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\power-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\power-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\recycle-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\recycle-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\refresh-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\refresh-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\search-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\search-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\shop-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\shop-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\star-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\star-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\tag-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\tag-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\user-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\user-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\video-black.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\images\icons-svg\video-white.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\content\jquery.mobile-1.4.5.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\scripts\appMain.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\scripts\hideAddressBar.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\scripts\jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\scripts\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\scripts\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\scripts\jquery.mobile-1.4.5.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\scripts\jquery.mobile-1.4.5.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\LOCAL_GitHub\MyCalculator\scripts\jquery.mobile-1.4.5.min.map" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc-app/scripts/app.js" afterPath="$PROJECT_DIR$/calc-app/scripts/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calc-app/index.html" afterPath="$PROJECT_DIR$/calc-app/index.html" />
     </list>
     <ignored path="MyCalculator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -256,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/calc-app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14285715" vertical-offset="0" max-vertical-offset="901">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.8306189" vertical-offset="0" max-vertical-offset="901">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -302,8 +75,8 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc-app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3013" max-vertical-offset="3451">
-              <caret line="87" column="3" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="3451">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -314,7 +87,7 @@
       <file leaf-file-name="hideAddressBar.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc-app/scripts/hideAddressBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="544">
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="544">
               <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding />
             </state>
@@ -339,8 +112,8 @@
         <option value="$PROJECT_DIR$/scripts/appMain.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/calc-app/scripts/appMain.js" />
-        <option value="$PROJECT_DIR$/calc-app/scripts/app.js" />
         <option value="$PROJECT_DIR$/calc-app/scripts/hideAddressBar.js" />
+        <option value="$PROJECT_DIR$/calc-app/scripts/app.js" />
         <option value="$PROJECT_DIR$/calc-app/index.html" />
       </list>
     </option>
@@ -607,16 +380,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calc-app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3013" max-vertical-offset="3451">
-          <caret line="87" column="3" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calc-app/scripts/hideAddressBar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="544">
@@ -625,10 +388,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/calc-app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="3451">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/calc-app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14285715" vertical-offset="0" max-vertical-offset="901">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.8306189" vertical-offset="0" max-vertical-offset="901">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
             <element signature="n#style#0;n#input#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
